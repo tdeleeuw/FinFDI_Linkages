@@ -12,6 +12,7 @@ This repository contains the Stata code and data structure required to reproduce
 
 - `replication_tab_fig.do` — Main replication script generating all tables and figures.  
 - `maindata.dta` — Data file required by the replication script (with proprietary variables replaced by missing values).
+- `figures_attachment.xlsx` — Excel file containing figure 2, and the underlying data. 
 
 ## Instructions for Replication
 
