@@ -2,7 +2,7 @@
 
 Replication materials for the article  
 **“How does FDI transmit into domestic investment? Exploring intra‑industry and financial channels”**  
-T. de Leeuw & K. M. Wacker (2026), *Journal of Comparative Economics*
+T. de Leeuw & K. M. Wacker (2026), *Journal of Comparative Economics*, https://doi.org/10.1016/j.jce.2026.01.004
 
 ## Overview
 
